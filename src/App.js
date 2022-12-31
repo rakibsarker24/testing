@@ -18,7 +18,7 @@ let handleMinus=()=>{
 
   return (
    <>
-   <h1>Development testing</h1>
+   <h1>Redux Development testing</h1>
    <button onClick={handlePlus}>+</button>
    <h1>{data}</h1>
    <button onClick={handleMinus}>-</button>
